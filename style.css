@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;600;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  background-color: #060684;
+  font-size: 3rem;  
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  padding: 1rem;
+}
+
+.choice:hover{
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+.choices{
+  margin: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ScoreBoard{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+  
+}
+
+.Message{
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.weapon{
+  font-size: 2.5rem;
+  margin: 4rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.result{
+  background-color: #060684;
+  color: white;
+  display: inline;
+  padding: 1rem;
+  margin: 4rem;
+  border-radius: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.UserLabel{
+  font-size: 2rem;
+}
+
+.CompLabel{
+  font-size: 2rem;
+}
+
+.User{
+  margin-right: 3rem;
+}
+
+.UserScore {
+  font-size: 1.75rem;
+  text-align: center;
+}
+
+.CompScore{
+  font-size: 1.75rem;
+  text-align: center;
+}
