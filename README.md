@@ -34,8 +34,8 @@ You can view the live demo of the project [here](https://harshit2180.github.io/R
    ```bash
    git clone https://github.com/Harshit2180/Rock-Paper-Scissors-Game.git
 2. Navigate to the project directory:
-   cd Rock-Paper-Scissors
-3. Open index.html in your web browser.
+   `cd Rock-Paper-Scissors-Game`
+3. Open `index.html` in your web browser.
 
 ## Game Rules
 1. Rock crushes Scissors (Rock wins)
