@@ -45,3 +45,6 @@ You can view the live demo of the project [here](https://harshit2180.github.io/R
 
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request or open an issue.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
